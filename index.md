@@ -23,9 +23,7 @@ I am a postgraduate student at the University of Chinese Academy of Sciences (UC
 
   Bachelor of Engineering Honours (Software Engineering), Honours Class I
   
-+ **2018-2021: University of Chinese Academy of Sciences(UCAS)**
-
-  Institute of Information Engineering
++ **2018-2021: Institute of Information Engineering. University of Chinese Academy of Sciences(UCAS)**
 
 -------
 
