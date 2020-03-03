@@ -16,12 +16,16 @@ I am a postgraduate student at the University of Chinese Academy of Sciences (UC
 
 ## Education
 + **2013-2015: Harbin Engineering University (HEU)**
-  Bachelor of Computer Science and Technology
-+ **2015-2018: The University of Sydney (USYD)**
-  Bachelor of Engineering Honours (Software Engineering), Honours Class I
-+ **2018-2021: University of Chinese Academy of Sciences(UCAS)**
-  Institute of Information Engineering
 
+  Bachelor of Computer Science and Technology
+  
++ **2015-2018: The University of Sydney (USYD)**
+
+  Bachelor of Engineering Honours (Software Engineering), Honours Class I
+  
++ **2018-2021: University of Chinese Academy of Sciences(UCAS)**
+
+  Institute of Information Engineering
 
 -------
 
