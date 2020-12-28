@@ -24,5 +24,5 @@ I am a postgraduate student at the University of Chinese Academy of Sciences (UC
 -------
 
 ## Publications
-+ "Modeling Intra and Inter-modality Incongruity for Multi-Modal Sarcasm Detection" published at findings of EMNLP-2020
-+ "Modeling the Incongruity between Sentence Snippets for Sarcasm Detection" published at ECAI-2020
++ "Modeling Intra and Inter-modality Incongruity for Multi-Modal Sarcasm Detection" (Published at findings of EMNLP-2020, First Author)
++ "Modeling the Incongruity between Sentence Snippets for Sarcasm Detection" (Published at ECAI-2020, First Author)
